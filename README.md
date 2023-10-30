@@ -5,5 +5,5 @@ Hello every one, I'm Yuanye Liu. Here is a repository storing some notes I deriv
 
 ## News
 
-[2023.10.29] Derivation of [MvMM](https://ieeexplore.ieee.org/document/8458220), with the help of [Xinzhe](https://xzluo97.github.io/).
-[2023.10.28] Derivation of GMM.
+* [2023.10.29] Derivation of [MvMM](https://ieeexplore.ieee.org/document/8458220), with the help of [Xinzhe](https://xzluo97.github.io/).
+* [2023.10.28] Derivation of GMM.
